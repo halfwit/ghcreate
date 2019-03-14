@@ -11,3 +11,5 @@
 ghcreate <orgname>/<reponame>
 
 ```
+
+- `<orgname>` is optional, if omitted it will create the repository as the oauth2 ticket holder
